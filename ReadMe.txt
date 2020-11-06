@@ -36,5 +36,4 @@ that it is derived from barthdry games
 Third Term is anyone who is owning a rpgxp can 
 only modify the graphics of this folder as it is made using the 
 RGSS - Standard
-Copyright Derived From the Old Game made in 2007 using Rpg 2000
 
