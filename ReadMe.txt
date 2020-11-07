@@ -10,6 +10,12 @@ You are free to update this game and give a pull request
 if it is denied or not responded that means it is not suitable 
 in location basis or inactive
 
+Requirements:-
+
+RGSS RPGXP RTP(To Play)
+RPG Maker XP 1.02 (To Edit) or Above
+
+
 Makers:-
 Barthdry 
 Sithjester(Resources)
