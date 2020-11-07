@@ -1,0 +1,13 @@
+
+Release History:- Current Version 0.5.8
+
+Version 0.3 :- Beach Boatmen and sail from nessebar city to
+Fusthmania Island where guardians wait
+
+Version 0.4 :- Boss Fight Completed with all things setted Up
+
+Version 0.5.5 :- Shop/After talking to the hunter who blocked
+the way going to the Aurelia (Finally 20 minutes gameplay.)
+ 
+Version 0.5.8:- Improved Cost System and Fishing game to 
+give you income. Fishing Available in Ravda
